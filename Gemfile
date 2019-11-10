@@ -30,7 +30,7 @@ gem 'tty-font'
 gem 'faker', :git => 'https://github.com/stympy/faker.git', :branch => 'master'
 gem 'paint'
 
-
+# gem 'loofah', '~> 2.3.1'
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
